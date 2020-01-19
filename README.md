@@ -6,4 +6,4 @@ with Submitbutton Disabled
 [![Image Screenshot](btnSubmitDisabled.PNG)]
 
 with Submitbutton Enabled
-[![Image Screenshot](btnSubmitEnabled.PNG]
+[![Image Screenshot](btnSubmitEnabled.PNG)]
