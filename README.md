@@ -9,4 +9,4 @@ with Submitbutton Enabled
 ![Image Screenshot](btnSubmitEnabled.PNG)
 
 ## Solution
-Uncomment ClientSideEvents
+Comment out ClientSideEvents
